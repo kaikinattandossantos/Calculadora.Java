@@ -5,14 +5,15 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f4f4f4;
+    color: #f1eeee;
+    background-color: #474242;
 }
 
 .calculator {
-    background-color: #fff;
+    background-color: #4e75d7;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(79, 66, 66, 0.1);
     text-align: center;
 }
 
@@ -20,13 +21,13 @@ input, select, button {
     margin: 10px;
     padding: 10px;
     font-size: 16px;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     border-radius: 5px;
 }
 
 button {
-    background-color: #28a745;
-    color: white;
+    background-color: #096d20;
+    color: rgb(255, 255, 255);
     cursor: pointer;
 }
 
